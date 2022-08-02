@@ -34,7 +34,7 @@ public class SortOfSorting {
 			n = Integer.parseInt(in.nextLine());
 			System.out.println();
 		}
-		
+
 		in.close();
 	}
 
